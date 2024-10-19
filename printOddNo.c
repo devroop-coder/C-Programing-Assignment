@@ -3,7 +3,7 @@ int main()
 {
     printf("Kaushik Ranjan Rajkumar\n");
 
-    for (int i = 1; i <= 100; i++)
+    for (int i = 2; i < 100; i++)
     {
         if (i % 2 != 0)
 
